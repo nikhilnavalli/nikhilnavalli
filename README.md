@@ -2,12 +2,8 @@
 <h3 align="center">Palantir Foundry Developer @ TCS (Roche Genentech) | Generative AI Engineer in Progress</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-s-navalli-2b1167280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:niknavalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Bengaluru-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -101,12 +97,12 @@ I'm a software developer working at the intersection of **enterprise data platfo
 
 ### 🧪 Featured Projects
 
-#### 🤖 [Production-Learning-RAG-App](https://github.com/nikhil-s-navalli) — Deployed RAG Chatbot
+#### 🤖 [Production-Learning-RAG-App](https://github.com/nikhilnavalli) — Deployed RAG Chatbot
 A retrieval-augmented generation chatbot built to learn the **production side of GenAI**, not just the model.
 - **Stack:** FastAPI · ChromaDB · Sentence Transformers (`all-MiniLM-L6-v2`) · Groq `llama-3.3-70b-versatile` · Docker · Railway CI/CD
 - 🔧 **Real incident handled:** Diagnosed a `500 Internal Server Error` on `/health`, rolled back in production within 30 seconds, then shipped the permanent fix — reinforcing the principle *"roll back first, diagnose second."*
 
-#### 🗄️ [AskYourSQL](https://github.com/nikhil-s-navalli) — Natural Language to SQL
+#### 🗄️ [AskYourSQL](https://github.com/nikhilnavalli) — Natural Language to SQL
 A GenAI tool that lets anyone query a MySQL database in plain English.
 - **Stack:** Streamlit · LangChain · Groq `llama-3.3-70b-versatile` · Ollama Embeddings · ChromaDB
 - 🛡️ **Safety fix:** Re-engineered DROP TABLE handling to check table existence *before* confirmation, preventing irreversible data loss from faulty queries
@@ -147,13 +143,13 @@ Vet appointment scheduling app with Google Maps API integration.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-s-navalli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilnavalli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-s-navalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnavalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-s-navalli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnavalli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -170,5 +166,5 @@ English (Conversational) · Kannada (Proficient) · Hindi (Proficient)
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-s-navalli-2b1167280/">LinkedIn</a> •
   <a href="mailto:niknavalli@gmail.com">Email</a> •
-  <a href="https://github.com/nikhil-s-navalli">GitHub</a>
+  <a href="https://github.com/nikhilnavalli">GitHub</a>
 </p>
