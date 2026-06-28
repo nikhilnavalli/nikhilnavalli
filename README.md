@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nikhil S Navalli 👋</h1>
+<h1 align="center">Hi there, I'm Nikhil 👋</h1>
 <h3 align="center">Palantir Foundry Developer @ TCS (Roche Genentech) | Generative AI Engineer in Progress</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">
   🥇 <b>MCA Gold Medalist</b> (University 1st Rank, CGPA 9.67) &nbsp;|&nbsp;
   🏗️ Enterprise Data Platforms &nbsp;|&nbsp;
-  🤖 RAG · LLMs · LangChain
+  🤖 RAG · LLMs · LangChain · Agentic AI
 </p>
 
 ---
