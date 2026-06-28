@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://docs.google.com/document/d/1m699-aZQBa7990MQMXvtAvmvPPgyQyM4/edit?usp=sharing&ouid=116912410876031204926&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://docs.google.com/document/d/1m699-aZQBa7990MQMXvtAvmvPPgyQyM4/edit?usp=sharing&ouid=116912410876031204926&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Bengaluru-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
