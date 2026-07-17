@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=header" />
+
 <h1 align="center">Hi there, I'm Nikhil👋 &nbsp; <img align="right" src="https://komarev.com/ghpvc/?username=nikhilnavalli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></h1>
 <!-- <h3 align="center">Palantir Foundry Developer @ TCS (Roche Genentech) | Generative AI Engineer in Progress</h3> -->
 <h3 align="center">Backend Development Engineer @ TCS | Generative AI Engineer in Progress</h3>
@@ -166,6 +168,9 @@ Vet appointment scheduling app with Google Maps API integration.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnavalli&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilnavalli/nikhilnavalli/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -183,3 +188,5 @@ English (Conversational) · Kannada (Proficient) · Hindi (Proficient)
   <a href="mailto:niknavalli@gmail.com">Email</a> •
   <a href="https://github.com/nikhilnavalli">GitHub</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1a2e&height=120&section=footer&reversal=true" />
