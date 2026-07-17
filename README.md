@@ -1,8 +1,6 @@
+<h1 align="center">Hi there, I'm Nikhil 👋</h1>
 <p align="center">
-  <h1 align="center">Hi there, I'm Nikhil 👋</h1>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nikhilnavalli&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=nikhilnavalli&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 <h3 align="center">Palantir Foundry Developer @ TCS (Roche Genentech) | Generative AI Engineer in Progress</h3>
 
